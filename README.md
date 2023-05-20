@@ -1,6 +1,8 @@
 # Correios Atende - Extrator de Dados de Postagem
 
-Este é um aplicativo em Python para extrair dados de postagem do sistema Correios Atende. Ele permite que faça login no sistema, pesquise os atendimentos em uma data específica e salve os dados de postagem em um arquivo Excel.
+## Descrição
+
+Este é um aplicativo em Python desenvolvido para resolver o problema de falta de geração de relatório no sistema Correios Atende. O sistema não fornece uma funcionalidade para gerar relatórios de postagem, o que dificulta o controle e análise dos dados. O aplicativo extrai os dados de postagem do sistema, permitindo que você os salve em um arquivo Excel para fins de controle e análise.
 
 ## Tecnologias Utilizadas
 
@@ -24,5 +26,10 @@ O aplicativo possui as seguintes funcionalidades:
 4. **Extração de Dados**: Extrai os dados de postagem de cada atendimento e cria uma lista com as informações relevantes.
 5. **Geração do Relatório**: Salva os dados de postagem em um arquivo Excel, na pasta correspondente à data de pesquisa.
 6. **Exibição de Resultados**: Apresenta os resultados da extração na interface do aplicativo, incluindo a quantidade total de atendimentos e objetos postados.
+
+## Problema Resolvido
+
+O sistema Correios Atende não gera relatórios de postagem, dificultando o controle e análise dos dados por parte dos usuários. Com o aplicativo Correios Atende - Extrator de Dados de Postagem, é possível coletar os dados diretamente do sistema e salvá-los em um formato estruturado, como um arquivo Excel. Isso permite que os usuários tenham maior controle sobre as postagens realizadas, além de possibilitar análises e tomadas de decisão mais eficientes com base nos dados coletados.
+
 
 **Observação**: Foi criado um executável da aplicação, para utilização outras máquinas. O arquivo chromedriver.exe foi incluído no build juntamente com as dependências necessárias.
