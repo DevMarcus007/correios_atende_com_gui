@@ -32,4 +32,5 @@ O aplicativo possui as seguintes funcionalidades:
 O sistema Correios Atende não gera relatórios de postagem, dificultando o controle e análise dos dados por parte dos usuários. Com o aplicativo Correios Atende - Extrator de Dados de Postagem, é possível coletar os dados diretamente do sistema e salvá-los em um formato estruturado, como um arquivo Excel. Isso permite que os usuários tenham maior controle sobre as postagens realizadas, além de possibilitar análises e tomadas de decisão mais eficientes com base nos dados coletados.
 
 
-**Observação**: Foi criado um executável da aplicação, para utilização outras máquinas. O arquivo chromedriver.exe foi incluído no build juntamente com as dependências necessárias.
+
+**Observação**: Foi criado um executável da aplicação, para utilização outras máquinas. O arquivo `chromedriver.exe` foi incluído no build juntamente com as dependências necessárias.
