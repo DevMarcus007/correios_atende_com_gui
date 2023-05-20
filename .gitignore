@@ -1,0 +1,6 @@
+#Ignora os arquivos de configuração com informações sensíveis
+*config.py
+
+#Ignora a pasta do ambiente virtual
+app_corr_atende_env
+__pycache__
